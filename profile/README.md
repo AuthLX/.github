@@ -48,6 +48,7 @@ Production-ready today:
 | :---: | :---: | :---: |
 | **Python** | [AuthLX-Python-Example](https://github.com/AuthLX/AuthLX-Python-Example) | ![Available](https://img.shields.io/badge/-Available-22C55E?style=flat-square) |
 | **C++** | [AuthLX-CPP-Example](https://github.com/AuthLX/AuthLX-CPP-Example) | ![Available](https://img.shields.io/badge/-Available-22C55E?style=flat-square) |
+| **C#** | [AuthLX-CSharp-Example](https://github.com/AuthLX/AuthLX-CSharp-Example) | ![Available](https://img.shields.io/badge/-Available-22C55E?style=flat-square) |
 
 </div>
 
