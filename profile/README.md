@@ -98,7 +98,7 @@ Bring AuthLX directly into your community to manage users and licensing.
 | | |
 | :--- | :--- |
 | 🌐 **Website** | Explore AuthLX's full feature set at **[authlx.com](https://authlx.com/)** |
-| 💬 **Discord** | Join the community for support and updates on **[Discord](https://discord.com/channels/@me)** |
+| 💬 **Discord** | Join the community for support and updates on **[Discord](https://discord.gg/fnbuFSDjqJ)** |
 | 🎬 **Tutorials** | Step-by-step video guides are in production — **Coming Soon** |
 
 ---
