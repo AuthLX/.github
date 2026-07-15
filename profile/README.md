@@ -87,7 +87,7 @@ Bring AuthLX directly into your community to manage users and licensing.
 
 | Platform | Bot Repository | Status |
 | :---: | :---: | :---: |
-| **Discord** | `AuthLX-Discord-Bot` | ![Coming Soon](https://img.shields.io/badge/-Coming%20Soon-9CA3AF?style=flat-square) |
+| **Discord** | [`AuthLX-Discord-Bot`](https://github.com/AuthLX/AuthLX-Discord-Bot) | ![Available](https://img.shields.io/badge/-Available-22C55E?style=flat-square) |
 
 </div>
 
