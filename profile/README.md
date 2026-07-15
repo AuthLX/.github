@@ -8,7 +8,7 @@
   <a href="https://authlx.com/">
     <img src="https://img.shields.io/badge/Website-authlx.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.gg/fnbuFSDjqJ">
     <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <img src="https://img.shields.io/badge/Tutorials-Coming%20Soon-9CA3AF?style=for-the-badge&logo=youtube&logoColor=white" alt="Tutorials Coming Soon" />
